@@ -233,3 +233,49 @@ body{
 }
 
 /* holidays sale styles section end here */
+
+
+
+
+/* protfolio styles section start here */
+.protfolio-container{
+  height:1163px ;
+  width: 1320px;
+  margin: 0px auto;
+}
+.protfolio-text h3{
+  color: #FF0000;
+  font-size: 30px;
+  font-family: inter;
+  margin-top: 50px;
+
+}
+
+.protfolio-text h1{
+  font-size: 55px;
+  color: #070211;
+  margin: 5px 0px;
+}
+
+
+.protfolio-text p{
+  color: #7b797f;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+
+.protfolio-img-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.img{
+  width:424px ;
+  height: 430px;
+  
+}
+
+
+
+/* protfolio styles section end here */
